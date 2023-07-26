@@ -49,8 +49,8 @@ And the add-ons include:
   - [illa-supervisor-backend HTTP API Documents](https://github.com/illacloud/illa-supervisor-backend-api-docs)
 
 - The Database Schema Design and DDLs
-  - [illa-builder-backend Database Design](https://github.com/illacloud/illa-builder-backend-database-design-docs)
-  - [illa-supervisor-backend Database Design](https://github.com/illacloud/illa-supervisor-database-design-docs)
+  - [illa-builder-backend Database Design](https://github.com/illacloud/build-all-in-one-image/blob/main/illa-builder-backend-database-schema.md)
+  - [illa-supervisor-backend Database Design](https://github.com/illacloud/build-all-in-one-image/blob/main/illa-supervisor-backend-database-schema.md)
 
 - The Docker Image Building & Build Locally Documents List
   - [build-all-in-one-image (build your own illa-builder image by type ```make build```)](https://github.com/illacloud/build-all-in-one-image)
