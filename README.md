@@ -39,7 +39,7 @@ And the add-ons include:
 
 - The Design Documents List 
   - [illa-builder Design Documents]()
-  - [illa-builder-backend Design Documents]()
+  - [illa-builder-backend Design Documents](https://github.com/illacloud/builder-backend/blob/main/docs/ILLA_Builder_Backend_System_Design.md)
   - [illa-supervisor-backend Design Documents]()
   - [illa-cli Design Documents](https://github.com/illacloud/illa/blob/main/docs/Subcommands.md)
 
