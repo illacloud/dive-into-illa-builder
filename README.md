@@ -45,7 +45,7 @@ And the add-ons include:
 
 - The API Documents List
   - [illa-builder-backend HTTP API Documents](https://github.com/illacloud/illa-builder-backend-api-docs)
-  - [illa-builder-backend WebSocket Message Documents](https://github.com/illacloud/illa-builder-backend-weosocket-docs)
+  - [illa-builder-backend WebSocket Message Documents](https://github.com/illacloud/illa-builder-backend-websocket-docs)
   - [illa-supervisor-backend HTTP API Documents](https://github.com/illacloud/illa-supervisor-backend-api-docs)
 
 - The Database Schema Design and DDLs
