@@ -56,6 +56,9 @@ And the add-ons include:
   - [build-all-in-one-image (build your own illa-builder image by type ```make build```)](https://github.com/illacloud/build-all-in-one-image)
   - [deploy-illa-manually (deploy on local machine, docker, docker-compose, k8s)](https://github.com/illacloud/deploy-illa-manually)
 
+- Develop workflow
+  - [illa-builder-fe](https://github.com/illacloud/illa-builder/blob/main/CONTRIBUTING.md)
+
 ## License
 
 This project is [Apache License 2.0](./LICENSE).
