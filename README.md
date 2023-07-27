@@ -41,7 +41,7 @@ And the add-ons include:
   - [illa-builder Design Documents]()
   - [illa-builder-backend Design Documents]()
   - [illa-supervisor-backend Design Documents]()
-  - [illa-cli Design Documents]()
+  - [illa-cli Design Documents](https://github.com/illacloud/illa/blob/main/docs/Subcommands.md)
 
 - The API Documents List
   - [illa-builder-backend HTTP API Documents](https://github.com/illacloud/illa-builder-backend-api-docs)
