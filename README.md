@@ -37,13 +37,18 @@ And the add-ons include:
 
 ## ✨ Index
 
+- Get Started with
+  - [illa-builder Frontend Code Contributions Guidelines](https://github.com/illacloud/illa-builder/blob/main/CONTRIBUTING.md)
+  - [illa-builder Frontend Contributor Covenant Code of Conduct](https://github.com/illacloud/illa-builder/blob/main/CODE_OF_CONDUCT.md)
+  - [illa-builder-backend Code Contributions Guidelines](https://github.com/illacloud/builder-backend/blob/main/docs/Code_Contributions_Guidelines.md)
+
 - The Design Documents List 
-  - [illa-builder Design Documents]()
   - [illa-builder-backend Design Documents](https://github.com/illacloud/builder-backend/blob/main/docs/ILLA_Builder_Backend_System_Design.md)
   - [illa-supervisor-backend Design Documents]()
   - [illa-cli Design Documents](https://github.com/illacloud/illa/blob/main/docs/Subcommands.md)
 
 - The API Documents List
+  - [illa-builder-backend API Server Setup](https://github.com/illacloud/builder-backend/blob/main/docs/API_Server_Setup.md)
   - [illa-builder-backend HTTP API Documents](https://github.com/illacloud/illa-builder-backend-api-docs)
   - [illa-builder-backend WebSocket Message Documents](https://github.com/illacloud/illa-builder-backend-websocket-docs)
   - [illa-supervisor-backend HTTP API Documents](https://github.com/illacloud/illa-supervisor-backend-api-docs)
@@ -56,8 +61,6 @@ And the add-ons include:
   - [build-all-in-one-image (build your own illa-builder image by type ```make build```)](https://github.com/illacloud/build-all-in-one-image)
   - [deploy-illa-manually (deploy on local machine, docker, docker-compose, k8s)](https://github.com/illacloud/deploy-illa-manually)
 
-- Develop workflow
-  - [illa-builder-fe](https://github.com/illacloud/illa-builder/blob/main/CONTRIBUTING.md)
 
 ## License
 
