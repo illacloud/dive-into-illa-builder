@@ -43,7 +43,7 @@ And the add-ons include:
   - [illa-builder-backend Code Contributions Guidelines](https://github.com/illacloud/builder-backend/blob/main/docs/Code_Contributions_Guidelines.md)
 
 - The Design Documents List 
-  - [illa-builder architecture diagram](https://github.com/illacloud/build-all-in-one-image/DOCUMENTS/arch.md)
+  - [illa-builder architecture diagram](https://github.com/illacloud/build-all-in-one-image/blob/main/DOCUMENTS/arch.md)
   - [illa-builder-backend Design Documents](https://github.com/illacloud/builder-backend/blob/main/docs/ILLA_Builder_Backend_System_Design.md)
   - [illa-cli Design Documents](https://github.com/illacloud/illa/blob/main/docs/Subcommands.md)
 
